@@ -1,3 +1,7 @@
+* {
+  border: 1px dashed #000000;
+}
+
 p {
   color: red;
 }
@@ -5,7 +9,7 @@ p {
 .nav {
   margin: auto;
   height: 30px;
-  background-color: #b9d1e8;
+  background-color: #b4ff77;
 }
 
 #top-menu {
