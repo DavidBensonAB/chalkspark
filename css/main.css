@@ -4,10 +4,13 @@ p {
 
 .nav {
   margin: auto;
-  display: inline-block;
   height: 30px;
   width: 500px;
   background-color: #b9d1e8;
+}
+
+#top-menu {
+  display: inline
 }
 
 
