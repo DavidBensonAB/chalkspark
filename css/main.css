@@ -2,9 +2,13 @@ p {
   color: red;
 }
 
-#top-menu {
-  display:inline;
+.nav {
+  margin: auto;
+  display:inline-block;
+  height: 30px;
+  background-color: #29323a;
 }
+
 
 /*
 title {
