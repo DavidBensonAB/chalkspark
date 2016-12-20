@@ -9,10 +9,13 @@ p {
 .nav {
   margin: auto;
   height: 30px;
-  background-color: #f4e3e3;
-  display: inline-block;
+  background-color: #c10000;
 }
 
+li {
+  display: inline-block
+  
+}
 
 
 /*
